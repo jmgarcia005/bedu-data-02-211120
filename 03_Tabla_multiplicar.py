@@ -9,3 +9,9 @@ numero = int(numero)
 for n in range (10):
     r = numero * (n + 1)
     print(r)
+
+    #A contunación se muestra la tabla del número NNN
+    #-------------------------
+    #8 * 1 = 8
+    #8 * 2 = 16
+    #8 * 3 = 24
