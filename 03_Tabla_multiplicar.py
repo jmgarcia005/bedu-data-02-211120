@@ -8,7 +8,7 @@ numero = int(numero)
 
 for n in range (10):
     r = numero * (n + 1)
-    print(r)
+    print(f'A continuación se presenta la tabla del {numero}')
 
     #A contunación se muestra la tabla del número NNN
     #-------------------------
